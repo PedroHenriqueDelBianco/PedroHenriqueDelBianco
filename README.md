@@ -33,6 +33,6 @@ I am a Computer Science student and a passionate Full-Stack Software Engineer ba
 ## 📫 How to reach me:
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/pedro-henrique-del-bianco-168750403?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Wellfound:** [wellfound.com/u/yourprofile]((https://wellfound.com/u/pedro-henrique-del-bianco))
+- **Wellfound:** [wellfound.com/u/yourprofile](https://wellfound.com/u/pedro-henrique-del-bianco)
 
 "Code is the tool; solving real business problems is the goal."
